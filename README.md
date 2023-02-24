@@ -11,5 +11,11 @@ following this format which you may find helpful.
 ## How to use
 
 Clone this repo down and open it as a Vault within Obsidian. Start with the
-[00.00 Index](0x Meta/00 Index/00.00 Index.md) note for instructions on how to
+[00.00 Index](0x%20Meta/00%20Index/00.00%20Index.md) note for instructions on how to
 use this Vault.
+
+## Screenshot
+
+Category ID Selector
+
+![Screenshot.png](0x%20Meta/03%20Attachments/screenshot01.png)

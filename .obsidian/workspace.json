@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "32a14ca9118e81d5",
+        "id": "52bf0a510e2cb269",
         "type": "tabs",
         "children": [
           {
-            "id": "950b9727f712e9af",
+            "id": "7c2add17d4f0b174",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0x Meta/00 Index/00.00 Index.md",
-                "mode": "source",
+                "file": "0x Meta/01 Dashboards/Homepage.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0x Meta/00 Index/00.00 Index.md",
+                "file": "0x Meta/01 Dashboards/Homepage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0x Meta/00 Index/00.00 Index.md",
+                "file": "0x Meta/01 Dashboards/Homepage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0x Meta/00 Index/00.00 Index.md"
+                "file": "0x Meta/01 Dashboards/Homepage.md"
               }
             }
           }
@@ -148,19 +148,6 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "950b9727f712e9af",
-  "lastOpenFiles": [
-    "0x Meta/00 Index/00.01 Templates.md",
-    "0x Meta/02 Templates/02.00 partials/09 Unsorted.md",
-    "0x Meta/02 Templates/02.00 Global.md",
-    "0x Meta/02 Templates/02.01 Refile.md",
-    "0x Meta/00 Index/00.00 Index.md",
-    "0x Meta/00 Index/00.01 Modifiers.md",
-    "1x Projects/1A nope/1A.01 sd.md",
-    "1x Projects/1A nope",
-    "1x Projects",
-    "Untitled.md",
-    "0x Meta/0A woah",
-    "0x Meta/01 Dashboards/Homepage.md"
-  ]
+  "active": "7c2add17d4f0b174",
+  "lastOpenFiles": []
 }
