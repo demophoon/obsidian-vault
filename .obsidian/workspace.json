@@ -1,0 +1,166 @@
+{
+  "main": {
+    "id": "5ccaf489809e0a03",
+    "type": "split",
+    "children": [
+      {
+        "id": "32a14ca9118e81d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "950b9727f712e9af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0x Meta/00 Index/00.00 Index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "33c1af066f68ebcb",
+    "type": "split",
+    "children": [
+      {
+        "id": "d56ebf01b151530c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3dff9914b65b3d5b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "96f96fdfa03213d3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4de23fd971f6ee69",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "52af8610b9ec0550",
+    "type": "split",
+    "children": [
+      {
+        "id": "eebb7dd12f01e484",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d176c0006c2c8664",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "0x Meta/00 Index/00.00 Index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9210f4aabe47c47c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "0x Meta/00 Index/00.00 Index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0012a730d64e208a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "66909e7962b1b726",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "0x Meta/00 Index/00.00 Index.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "homepage:Open homepage": false
+    }
+  },
+  "active": "950b9727f712e9af",
+  "lastOpenFiles": [
+    "0x Meta/00 Index/00.01 Templates.md",
+    "0x Meta/02 Templates/02.00 partials/09 Unsorted.md",
+    "0x Meta/02 Templates/02.00 Global.md",
+    "0x Meta/02 Templates/02.01 Refile.md",
+    "0x Meta/00 Index/00.00 Index.md",
+    "0x Meta/00 Index/00.01 Modifiers.md",
+    "1x Projects/1A nope/1A.01 sd.md",
+    "1x Projects/1A nope",
+    "1x Projects",
+    "Untitled.md",
+    "0x Meta/0A woah",
+    "0x Meta/01 Dashboards/Homepage.md"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "templater-obsidian:0x Meta/02 Templates/02.01 Refile.md": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "C"
+    }
+  ]
+}
