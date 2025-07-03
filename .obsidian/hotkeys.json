@@ -7,5 +7,14 @@
       ],
       "key": "C"
     }
+  ],
+  "templater-obsidian:0x Meta/02 Templates/02.02 Make Permanent.md": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "P"
+    }
   ]
 }
